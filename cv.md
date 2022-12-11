@@ -15,8 +15,6 @@ I am a passionate self-educated front-end who is eager to explore new web techno
 *Sotbit*<br>
 Oct 2022 - Present<br>
 Mogilev, Belarus
-<br>
-<br>
 * **Functional Testing Trainee**<br>
 *EPAM Systems*<br>
 Jan 2020 - May 2020<br>
