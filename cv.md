@@ -8,11 +8,9 @@
 * **Github**: https://github.com/arkey99700
 
 ## About me
-***
 I am a passionate self-educated front-end who is eager to explore new web technologies and new ways of creating web applications and improving user experience!
 
 ## Experience
-***
 * **Fullstack Developer**<br>
 *Sotbit*<br>
 Oct 2022 - Present<br>
@@ -23,14 +21,13 @@ Mogilev, Belarus
 *EPAM Systems*<br>
 Jan 2020 - May 2020<br>
   Mogilev, Belarus
+
 ## Education
-***
 * **Mogilev State A.Kuleshov University**<br>
 Bachelor's degree, Romano-Germanic Philology<br>
 2015 - 2020
 
 ## Skills
-***
 * **HTML**
 * **CSS/SCSS**
 * **JavaScript (Node.js, Vue.js)**
@@ -84,7 +81,7 @@ Bachelor's degree, Romano-Germanic Philology<br>
     }
 
 ## Languages
-***
+
 * **Russian** - native;
 * **English** - C1;
 * **French** - A2;
