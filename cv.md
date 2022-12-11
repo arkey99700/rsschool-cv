@@ -1,14 +1,13 @@
 <img src="./img/cv_photo.png" alt="Vladislav Molodid's photo" width="200" height="200"/>
 
 # Vladislav Molodid
-###### Junior front-end developer
 * **Phone**: +375 44 748-00-95
 * **E-mail**: [molodid.vladislav@gmail.com](mailto:molodid.vladislav@gmail.com)
 * **Location**: Mogilev, Belarus
 * **Github**: https://github.com/arkey99700
 
 ## About me
-I am a passionate self-educated front-end who is eager to explore new web technologies and new ways of creating web applications and improving user experience!
+I am a passionate self-educated front-end developer who is eager to explore new web technologies and new ways of creating web applications and improving user experience!
 
 ## Experience
 * **Fullstack Developer**<br>
